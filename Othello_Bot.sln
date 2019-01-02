@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Othello_Bot", "Othello_Bot\Othello_Bot.csproj", "{058D8343-F2D2-46F5-A65B-2A5CBF586FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Othello_Player", "Othello_Player\Othello_Player.csproj", "{F71AC59A-8B3C-4526-9628-B8BDCE1C8779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058D8343-F2D2-46F5-A65B-2A5CBF586FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058D8343-F2D2-46F5-A65B-2A5CBF586FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058D8343-F2D2-46F5-A65B-2A5CBF586FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058D8343-F2D2-46F5-A65B-2A5CBF586FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71AC59A-8B3C-4526-9628-B8BDCE1C8779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71AC59A-8B3C-4526-9628-B8BDCE1C8779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71AC59A-8B3C-4526-9628-B8BDCE1C8779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71AC59A-8B3C-4526-9628-B8BDCE1C8779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B05E2F5-23F8-44B0-A08E-612FF780CE8E}
+	EndGlobalSection
+EndGlobal
